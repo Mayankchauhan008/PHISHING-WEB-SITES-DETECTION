@@ -18,7 +18,6 @@ This is a Flask-based web application that predicts whether a given URL is **phi
 
 ### 1. Clone the Repository
 
-```bash
 git clone https://github.com/yourusername/phishing-url-detector.git
 cd phishing-url-detector
 
