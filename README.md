@@ -14,19 +14,6 @@ This is a Flask-based web application that predicts whether a given URL is **phi
 
 ---
 
-## 📁 Project Structure
-
-├── app.py # Flask app script
-├── feature.py # Feature extraction logic
-├── model.pkl # Trained Gradient Boosting Classifier model
-├── index.html # Web interface (HTML)
-├── styles.css # Styling for the frontend
-├── test_url.txt # Sample phishing URLs for testing
-├── static
-
-
----
-
 ## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
